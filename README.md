@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Periscope - McKinsey & Company**
 
-- 🌱 I’m currently learning **Functional Programming, System Design & Distributed System**
+- 🌱 I’m currently learning **Java, Microservices, Testing, CI/CD, SDLC, Agile**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PS00161093?tab=repositories](https://github.com/PS00161093?tab=repositories)
 
