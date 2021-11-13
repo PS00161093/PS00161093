@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Prashant Sharma</h1>
 <h3 align="center">Senior Developer at Thoughtworks, India</h3>
 
-- 🔭 I’m currently working on **Periscope - McKinsey & Company**
+- 🔭 I’m currently working on **Periscope - McKinsey & Company.**
 
-- 🌱 I’m currently learning **Functional Programming, Distributed Systems & System Design**
+- 🌱 I’m currently learning **Functional Programming, Distributed Systems & System Design.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PS00161093?tab=repositories](https://github.com/PS00161093?tab=repositories)
 
-- 💬 Ask me about **Java, Microservices, Testing, CI/CD, SDLC, Agile**
+- 💬 Ask me about **Java, Microservices, Testing, CI/CD, SDLC, Agile.**
 
 - 📫 How to reach me **ps.arraha@gmail.com**
 
-- ⚡ Fun fact **I can do coding more than 14hrs straight**
+- ⚡ Fun fact **I can do coding more than 14hrs straight.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
