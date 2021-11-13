@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Periscope - McKinsey & Company**
 
-- 🌱 I’m currently learning **Java, Microservices, Testing, CI/CD, SDLC, Agile**
+- 🌱 I’m currently learning **Functional Programming, Distributed Systems & System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PS00161093?tab=repositories](https://github.com/PS00161093?tab=repositories)
 
-- 💬 Ask me about **Java, Microservice, Testing, CI/CD**
+- 💬 Ask me about **Java, Microservices, Testing, CI/CD, SDLC, Agile**
 
 - 📫 How to reach me **ps.arraha@gmail.com**
 
