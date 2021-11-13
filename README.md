@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ps.arraha@gmail.com**
 
-- ⚡ Fun fact **I can do coding more than 14hrs straight.**
+- ⚡ Fun fact **I can do coding for more than 14hrs straight.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
