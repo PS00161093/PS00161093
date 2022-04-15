@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Sharma</h1>
 <h3 align="center">Senior Developer at Thoughtworks, India</h3>
 
-- 🔭 I’m currently working on **Periscope - McKinsey & Company**
+- 🔭 I’m currently working on **Zalando Lounge: Customer Facing Applications**
 
 - 🌱 I’m currently learning **Functional Programming, Distributed Systems & System Design.**
 
