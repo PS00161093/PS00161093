@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PS00161093?tab=repositories](https://github.com/PS00161093?tab=repositories)
 
-- 💬 Ask me about **Java, Microservices, Testing, CI/CD, SDLC, Agile.**
+- 💬 Ask me about **Java, Microservices, Testing, CI/CD, Docket, k8s, AWS, SDLC, Agile.**
 
 - 📫 How to reach me **ps.arraha@gmail.com**
 
