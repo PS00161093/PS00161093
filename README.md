@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Sharma</h1>
-<h3 align="center">Senior Developer at Zalando, Berlin, Germany</h3>
+<h3 align="center">Senior Java Developer at Zalando, Berlin, Germany</h3>
 
 - 🔭 I’m currently working on **Zalando Lounge: Customer Facing Applications**
 
